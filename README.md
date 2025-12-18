@@ -28,8 +28,7 @@ A comprehensive web application that predicts house prices in Bangalore using li
 ## 📸 Screenshots
 
 ### Home Page
-!http://192.168.1.6:5000
-
+![Home Page](http://192.168.1.6:5000)
 
 ### About Information
 ![About Information](http://192.168.1.6:5000/about)
@@ -464,3 +463,4 @@ Need help? Here are your options:
 🍴 **Fork** to create your own version
 
 Made with ❤️ for the Bangalore real estate community
+
