@@ -18,7 +18,7 @@ A comprehensive web application that predicts house prices in Bangalore using li
 
 ## 🎯 Live Demo
 
-🌐 **[Visit Live Application](https://your-domain.com)**
+🌐 **[[Visit Live Application](http://192.168.1.6:5000)]**
 
 ### Quick Test:
 - **2 BHK, 1200 sqft in Electronic City**: ~₹67-96 Lakhs
@@ -28,13 +28,16 @@ A comprehensive web application that predicts house prices in Bangalore using li
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](https://via.placeholder.com/800x400/667eea/FFFFFF?text=Home+Page)
+!http://192.168.1.6:5000
+
+
+### About Information
+![About Information](http://192.168.1.6:5000/about)
+
 
 ### Prediction Form
-![Prediction Form](https://via.placeholder.com/800x400/28a745/FFFFFF?text=Prediction+Form)
+![Prediction Form](http://192.168.1.6:5000/predict)
 
-### Results Dashboard
-![Results](https://via.placeholder.com/800x400/ffc107/000000?text=Results+Dashboard)
 
 ## 🛠️ Installation & Setup
 
