@@ -28,15 +28,13 @@ A comprehensive web application that predicts house prices in Bangalore using li
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](http://192.168.1.6:5000)
+**[[Home Page](http://192.168.1.6:5000)]**
 
 ### About Information
-![About Information](http://192.168.1.6:5000/about)
-
+**[[About Information](http://192.168.1.6:5000/about)]**
 
 ### Prediction Form
-![Prediction Form](http://192.168.1.6:5000/predict)
-
+**[[Prediction Form](http://192.168.1.6:5000/predict)]**
 
 ## 🛠️ Installation & Setup
 
@@ -414,15 +412,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
-- 🌐 Website: [your-website.com](https://your-website.com)
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- 📧 Email: your.email@example.com
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
+**Sujith G**
+- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/sujith-g-347664278/)
+- 📧 Email: sujithg2515@gmail.com
+- 🐙 GitHub: [@yourusername](https://github.com/Sujith56846)
 
 ## 🙏 Acknowledgments
 
-- **Bangalore Real Estate Data** - Dataset source
+- **Bangalore Real Estate Data** - Dataset source kaggle
 - **Scikit-learn Community** - ML algorithms
 - **Flask Team** - Web framework
 - **Bootstrap Team** - UI components
@@ -433,34 +430,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Need help? Here are your options:
 
 1. 📖 **Documentation**: Check [DEPLOYMENT.md](DEPLOYMENT.md)
-2. 🐛 **Bug Reports**: [GitHub Issues](https://github.com/yourusername/bangalore-house-predictor/issues)
-3. 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/bangalore-house-predictor/discussions)
-4. 📧 **Email**: support@bangalorehomes.ai
-
-## 🔮 Roadmap
-
-### Version 2.0 (Planned)
-- [ ] User authentication and prediction history
-- [ ] Advanced analytics dashboard
-- [ ] Price trend analysis over time
-- [ ] Neighborhood comparison tools
-- [ ] Mobile app (React Native)
-- [ ] Real-time market data integration
-
-### Future Enhancements
-- [ ] Multiple city support (Mumbai, Delhi, Chennai)
-- [ ] Property recommendation engine
-- [ ] Investment ROI calculator
-- [ ] Market sentiment analysis
-- [ ] Integration with property portals
-
----
-
-⭐ **Star this repository** if you found it helpful!
-
-🔔 **Watch** for updates and new features
+2. 🐛 **Bug Reports**: [GitHub Issues](https://github.com/Sujith56846)
+3. 📧 **Email**: sujithg2515@gmail.com
 
 🍴 **Fork** to create your own version
 
 Made with ❤️ for the Bangalore real estate community
+
 
