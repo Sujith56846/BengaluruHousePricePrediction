@@ -413,9 +413,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Sujith G**
-- 💼 LinkedIn: [(https://linkedin.com/in/sujith-g-347664278/)]
+- 💼 LinkedIn: (https://linkedin.com/in/sujith-g-347664278/)
 - 📧 Email: sujithg2515@gmail.com
-- 🐙 GitHub: [@yourusername](https://github.com/Sujith56846)
+- 🐙 GitHub: https://github.com/Sujith56846
 
 ## 🙏 Acknowledgments
 
@@ -436,6 +436,7 @@ Need help? Here are your options:
 🍴 **Fork** to create your own version
 
 Made with ❤️ for the Bangalore real estate community
+
 
 
 
